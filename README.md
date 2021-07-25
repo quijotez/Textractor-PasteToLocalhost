@@ -2,7 +2,7 @@
 
 1. Download [Textractor](https://github.com/Artikash/Textractor)
 2. Download [node.js](https://nodejs.org/en/download/)
-3. Download the [latest release](https://github.com/quijotez/Textractor-PasteToLocalhost/releases/latest) and drop it into the main Textractor folder (if there are issues you can try and build it, I didn't test the x64 version)
+3. Download the [latest release](https://github.com/quijotez/Textractor-PasteToLocalhost/releases/latest) and drop it into the main Textractor folder (if there are issues you can try and build it)
 
 ![1](/pictures/1.png)
 
