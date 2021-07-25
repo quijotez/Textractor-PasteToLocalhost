@@ -1,1 +1,1 @@
-朋也「果たし状？」
+This line should be replaced by the output from Textractor (if node is running).
