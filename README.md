@@ -1,3 +1,5 @@
+How I use it: I sometimes play VNs on my TV and when I want to look up some words, it's annoying to write them on my phone, so I'd rather just copy and paste them instead.
+
 # How to install & use
 
 1. Download [Textractor](https://github.com/Artikash/Textractor)
@@ -17,4 +19,4 @@
 You should be able to see the page under localhost:3000.
 If you want to see the page from other device than the one you're running it on, use your private IP (For example 192.168.1.3:3000)
 
-There's also a better way to do this (using Qt5 Network instead of Node.js), so you might try and do that
+There's also a better way to code this (using Qt5 Network instead of Node.js), so you might try and do that
