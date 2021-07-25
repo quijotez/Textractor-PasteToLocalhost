@@ -1,2 +1,14 @@
 # Textractor-PasteToLocalhost
-An extension for https://github.com/Artikash/Textractor that displays the current line and pastes it into an .html file, which can be ran with node.js and displayed on local network (for example a phone on the same Wi-Fi)
+An extension for [Textractor](https://github.com/Artikash/Textractor) that displays the current line and pastes it into an .html file, which can be ran with node.js and displayed on local network (for example a phone on the same Wi-Fi)
+
+1. Download [Textractor](https://github.com/Artikash/Textractor)
+2. Download [node.js](https://nodejs.org/en/download/)
+3. Download the [latest release](https://github.com/quijotez/Textractor-PasteToLocalhost/releases/latest) and drop it into the main Textractor folder
+![1](1.png)
+4. Load the extension in Textractor
+![2](2.png)
+5. Run `app.js`; Go to the `node` folder and run using: ```node app.js```
+![3](3.png)
+
+You should be able to see the page under localhost:3000.
+If you want to see the page from other device than the one you're running it on, use your private IP (For example 192.168.1.3:3000)
