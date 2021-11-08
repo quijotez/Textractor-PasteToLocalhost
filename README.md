@@ -13,7 +13,7 @@ I sometimes play VNs on my TV and looking up unknown words is annoying to write 
 
 ![2](/pictures/2.png)
 
-5. Run `app.js` (go to the `node` folder and type: ```node app.js```)
+5. Run `app.js` with `runserver.bat` or go to the `node` folder and type: ``node app.js``
 
 ![3](/pictures/3.png)
 
