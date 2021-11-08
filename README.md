@@ -1,4 +1,5 @@
-How I use it: I sometimes play VNs on my TV and looking up unknown words is annoying to write on a smartphone, so I made this to simply copy and paste them instead.
+# Intended usage
+I sometimes play VNs on my TV and looking up unknown words is annoying to write on a smartphone, so I made this to simply copy and paste them instead.
 
 # How to install & use
 
